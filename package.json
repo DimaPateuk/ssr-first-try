@@ -1,0 +1,19 @@
+{
+  "name": "ssr-first-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon ./src/server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "nodemon": "^1.19.4",
+    "uuid": "^3.3.3",
+    "ws": "^7.2.0"
+  }
+}
